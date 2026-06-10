@@ -1,0 +1,19 @@
+Analyze this C project and generate a complete ACP project report. Explain the project in simple human-written language. Include:
+
+- Project Title
+- Abstract
+- Introduction
+- Objectives
+- Features
+- Algorithms Used
+- Data Structures Used
+- Working of the Program
+- Menu Functions
+- Input and Output
+- Applications
+- Advantages
+- Limitations
+- Future Enhancements
+- Conclusion
+
+Also explain the use of Bresenham's Line Algorithm, Midpoint Circle Algorithm, shape management using structures and unions, ANSI color support, and the ASCII canvas.
